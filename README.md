@@ -32,5 +32,7 @@ We will use gross revenue for films as our dependent variable (y). There are cou
 Before I start the analysis, I predict that the variables budget and company will both be highly correlated with gross revenue for films. At this point in time, I do not know if those two varibales are correlated with but thanks to the analysis, we will be able to find out what variables actually influence gross revenue. 
 
 # Conclusion 
+After we cleaned the data, made sure there were no duplicates, and coded string variable values to categorical values (unique identifiers) to run the analysis. 
 
+I found I was 50% correct in my assumptions: It appears the variables budget and votes have the highest, positive correlation to gross revenue while company has a low positive correlation. 
 
